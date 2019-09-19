@@ -59,3 +59,6 @@ print(lowest_positive(array))
 
 array = [3, 4]
 print(lowest_positive(array))
+
+array = [-1, -2]
+print(lowest_positive(array))
